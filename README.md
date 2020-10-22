@@ -3,8 +3,8 @@
 
 # Recruitment Portal
 
-> <Subtitle>
-> Include project description here.
+
+The platform for having the first round of selection for being a part of schaffen softwares
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
@@ -27,7 +27,7 @@ $ python3 manage.py runserver
 ```
 
 ## Contributors
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
+- <a href="https://github.com/siddhanttk">Siddhant Khare</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 
